@@ -10,7 +10,7 @@
 # How to use the script:
 # ---------------------
 # Use two arguments to run the script:
-# dd-script /path/to/source/file /path/to/destination
+# edd /path/to/source/file /path/to/destination
 #
 # Be carful!:
 # ----------
