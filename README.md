@@ -8,3 +8,7 @@ cp edd /usr/bin/
 Make it executable:
 ------------------
 chmod +x /usr/bin/edd
+
+Usage:
+-----
+edd [source] [destination]
