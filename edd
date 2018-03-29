@@ -33,6 +33,6 @@ else
 
     echo -e "\e[31mBurning image to disk...\e[0m"
 
-    dd if=$SRC of=$DST status=progress && echo -e "\e[32mDone!\e[0m"
+    dd if=$SRC of=$DST status=progress conv=fdatasync && echo -e "\e[32mDone!\e[0m"
 
 fi
