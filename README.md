@@ -1,3 +1,5 @@
+Use the "dd" command in linux with "Easy dd"
+
 How to install:
 --------------
 Copy "edd" file to /usr/bin/ :
